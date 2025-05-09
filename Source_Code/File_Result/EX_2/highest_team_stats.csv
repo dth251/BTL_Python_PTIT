@@ -1,0 +1,73 @@
+﻿Statistic,Team,Mean Value
+Age,Fulham,29.0
+Matches Played,Nott'ham Forest,25.24
+Starts,Brentford,18.33
+Minutes,Liverpool,1643.1
+Gls,Liverpool,3.81
+Ast,Liverpool,2.86
+crdY,Chelsea,3.88
+crdR,Arsenal,0.23
+xG,Liverpool,3.68
+xAG,Liverpool,2.68
+PrgC,Manchester City,41.64
+PrgP,Liverpool,83.95
+PrgR,Liverpool,83.05
+Gls per 90,Manchester City,0.18
+Ast per 90,Liverpool,0.14
+xG per 90,Liverpool,0.18
+xAG per 90,Chelsea,0.16
+GA90,Leicester City,0.32
+Save%,Bournemouth,10.43
+CS%,Brentford,5.6
+PK Save%,Everton,4.76
+SoT%,Nott'ham Forest,34.8
+SoT per 90,Bournemouth,0.54
+G per Sh,Arsenal,0.13
+Dist,Crystal Palace,18.12
+Cmp,Liverpool,807.14
+Cmp%,Manchester City,86.5
+TotDist,Liverpool,13712.95
+ShortCmp%,Manchester City,92.13
+MedCmp%,Manchester City,89.52
+LongCmp%,Liverpool,60.28
+KP,Liverpool,22.43
+Pass into 1_3,Liverpool,69.57
+PPA,Liverpool,19.05
+CrsPA,Fulham,4.65
+SCA,Liverpool,50.81
+SCA90,Liverpool,2.62
+GCA,Liverpool,6.52
+GCA90,Liverpool,0.33
+Tkl,Crystal Palace,33.14
+TklW,Crystal Palace,19.62
+Deff Att,Liverpool,28.95
+Lost,Nott'ham Forest,14.33
+Blocks,Brentford,21.19
+Sh,Brentford,8.71
+Pass,Crystal Palace,14.9
+Int,Bournemouth,14.39
+Touches,Liverpool,1139.43
+Def Pen,Brentford,145.57
+Def 3rd,Brentford,366.48
+Mid 3rd,Liverpool,513.48
+Att 3rd,Manchester City,353.4
+Att Pen,Liverpool,57.38
+Take-Ons Att,Arsenal,30.59
+Succ%,Liverpool,52.19
+Tkld%,Crystal Palace,45.69
+Carries,Manchester City,664.68
+ProDist,Manchester City,2051.96
+Carries 1_3,Manchester City,31.16
+CPA,Manchester City,14.48
+Mis,Nott'ham Forest,24.67
+Dis,Newcastle Utd,17.96
+Rec,Liverpool,798.24
+Rec PrgR,Liverpool,83.05
+Fls,Bournemouth,20.52
+Fld,Newcastle Utd,18.22
+Off,Nott'ham Forest,3.95
+Crs,Fulham,40.05
+Recov,Bournemouth,73.22
+Aerl Won,Brentford,27.52
+Aerl Lost,Crystal Palace,28.19
+Aerl Won%,Brentford,54.89
